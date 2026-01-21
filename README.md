@@ -1,2 +1,13 @@
-# Food-Delivery-Time-Prediction
-Machine Learning project to predict food delivery time based on multiple influencing factors such as distance and delivery conditions. The model uses a Random Forest Regressor and includes data preprocessing, training, evaluation, and result analysis to demonstrate real-world ML applications in food delivery systems.
+# Food Delivery Time Prediction
+
+This project focuses on predicting food delivery times using Machine Learning.  
+It analyzes multiple factors including distance between restaurant and customer, preparation time, traffic conditions, and other order-related features. By leveraging a Random Forest Regressor, the model can provide accurate delivery time predictions, helping to improve operational efficiency and customer satisfaction in real-world food delivery systems.
+
+The project demonstrates the complete ML pipeline:
+- Data collection and preprocessing
+- Feature selection and analysis
+- Model training, testing, and evaluation
+- Prediction and performance visualization
+
+Technologies used include Python, Pandas, NumPy, Scikit-learn, and Google Colab.  
+This project serves as a practical example of how machine learning can be applied to optimize logistics and enhance decision-making in delivery services.
