@@ -27,6 +27,9 @@ if st.button("Predict Delivery Time"):
     elif weather == "Cloudy":
         time += 2  # optional small effect
     
-    # Display result
+    # Optional: max 2 hours cap
+    if time > 120:
+        time = 120
+
     st.success(f"⏱ Estimated Delivery Time: {int(time)} minutes")
 
