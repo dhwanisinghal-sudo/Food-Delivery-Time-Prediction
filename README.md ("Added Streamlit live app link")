@@ -11,3 +11,5 @@ The project demonstrates the complete ML pipeline:
 
 Technologies used include Python, Pandas, NumPy, Scikit-learn, and Google Colab.  
 This project serves as a practical example of how machine learning can be applied to optimize logistics and enhance decision-making in delivery services.
+
+**Live App:** [Click here to open GUI] (  https://food-delivery-time-prediction-entuhcgxaxh5nnan7myh6j.streamlit.app/  )
